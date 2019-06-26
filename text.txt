@@ -1,0 +1,28 @@
+1)head quarter= london
+2)offshore dev. center=17
+3)total employ=35000
+4)previously it had its private cloud
+5)currenty compnay uses amazon cloud
+6)comapnay have a employ portal to access anywhere  human resouce services
+7)built & host informtion system
+8) functional requirment
+  a)add devlopment center
+  b)remove devloment center
+  c)hire emplyee 
+       i) add emp details
+       
+  d)fire employee
+  e)relocate emplyee
+  f)
+   
+9) non functional requirment of human resorce soluation portal
+   a)capabilty
+   b)scalabilty
+   c)availablity
+    d)relibility
+    e)performance
+    f)servicebilty
+    g)maintalabilty
+
+
+
